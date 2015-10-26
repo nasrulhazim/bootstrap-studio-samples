@@ -1,0 +1,13 @@
+body{
+  font-family:'Open Sans', sans-serif;
+}
+
+div#footer.well{
+  position:fixed;
+  width:100%;
+  bottom:0;
+  left:0;
+  right:0;
+  text-align:center;
+}
+
